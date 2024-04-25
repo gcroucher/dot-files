@@ -5,6 +5,7 @@ set expandtab
 filetype indent on
 set autoindent
 set ruler
+set paste
 
 syntax on
 colo elflord
@@ -14,3 +15,4 @@ set visualbell
 
 set ignorecase
 
+:set listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<,space:␣
